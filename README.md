@@ -18,7 +18,7 @@ Manage the GDPR children's consent records (Art. 8) kept by [laravel-gdpr-childr
 
 - **Age checks:** a read-only list of each result, with the age at the check, the method (marked as reliable or not), the provider and the expiry date. Filter the users below the age of digital consent. Your app's age check flow records them. Nobody types them in by hand.
 - **Guardian links:** link a child's account to the holder of parental responsibility, then verify or revoke the link (Art. 8(2)). Once verified, the child's consent counts.
-- English (more languages coming).
+- 19 languages.
 
 ## Compatibility
 
